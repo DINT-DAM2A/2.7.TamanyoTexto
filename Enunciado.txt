@@ -1,0 +1,8 @@
+7. Implementar una aplicación para cambiar el tamaño de un texto entre tres
+opciones:
+• Pequeño ( tamaño 36)
+• Mediano ( tamaño 48)
+• Grande (tamaño 72)
+Se debe implementar un único método manejador de eventos para los tres
+botones de radio, haciendo uso de la propiedad Tag.
+Nombre del proyecto: 2.7.TamanyoTexto
